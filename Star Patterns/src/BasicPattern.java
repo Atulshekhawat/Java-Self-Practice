@@ -82,12 +82,12 @@ public class BasicPattern {
         }
     }
     public static void main(String[] args) {
-//        solidRectangle();
-//        halfPyramid();
-//        halfPyramidWithNumber();
-//        reverseHalfPyramid();
-//        reverseHalfPyramid180();
-//        invertedHalfPyramidWithNumber();
-            characterPattern();
+        solidRectangle();
+        halfPyramid();
+        halfPyramidWithNumber();
+        reverseHalfPyramid();
+        reverseHalfPyramid180();
+        invertedHalfPyramidWithNumber();
+        characterPattern();
     }
 }

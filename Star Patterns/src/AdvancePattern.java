@@ -143,7 +143,7 @@ public class AdvancePattern {
             }
 //            inner loop for star
             for (int j=1;j<=i;j++) {
-                if (i == 1 || j == 1 || j == i || i==n ){  //not able to print the last line for this triangle
+                if (i == 1 || j == 1 || j == i || i==n ){
                     System.out.print("*");
                 } else {
                     System.out.print(" ");
@@ -157,12 +157,11 @@ public class AdvancePattern {
 
         for (int i=1;i<=n;i++){
             for (int j=1;j<=n-i+1;j++){
-                if (i == 1 || j == 1 || i == n || j == n) { //how to print star at (2,3) and (3,2)
+                if (i == 1 || j == 1 || i == n || j == n) {
                     System.out.print("*");
                 } else {
                     System.out.print(" ");
                 }
-
             }
             System.out.println();
         }
