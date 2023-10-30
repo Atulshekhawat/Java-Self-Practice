@@ -81,6 +81,18 @@ public class BasicPattern {
             System.out.println();
         }
     }
+
+    public static void demo(){
+        int n=5;
+        char ch='A';
+        for (int i=1;i<=n;i++){
+            for (int j=1;j<=i;j++) {
+                System.out.print(ch+" ");
+                ch++;
+            }
+            System.out.println();
+        }
+    }
     public static void main(String[] args) {
         solidRectangle();
         halfPyramid();
@@ -89,5 +101,6 @@ public class BasicPattern {
         reverseHalfPyramid180();
         invertedHalfPyramidWithNumber();
         characterPattern();
+        demo();
     }
 }
