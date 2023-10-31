@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Array.iml" filepath="$PROJECT_DIR$/.idea/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LargestNumber/LargestNumber.iml" filepath="$PROJECT_DIR$/LargestNumber/LargestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PairesInArray/PairesInArray.iml" filepath="$PROJECT_DIR$/PairesInArray/PairesInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReverseArray/ReverseArray.iml" filepath="$PROJECT_DIR$/ReverseArray/ReverseArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubArray/SubArray.iml" filepath="$PROJECT_DIR$/SubArray/SubArray.iml" />
+    </modules>
+  </component>
+</project>
