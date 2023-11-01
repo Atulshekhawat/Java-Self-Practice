@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="areaOfCircle/src"/>
+	<classpathentry kind="src" path="Array/LargestNumber/src"/>
+	<classpathentry kind="src" path="Array/PairesInArray/src"/>
+	<classpathentry kind="src" path="Array/ReverseArray/src"/>
+	<classpathentry kind="src" path="Array/SubArray/src"/>
+	<classpathentry kind="src" path="Common Loops Problems/src"/>
+	<classpathentry kind="src" path="Demo/src"/>
+	<classpathentry kind="src" path="Star Patterns/src"/>
+	<classpathentry kind="src" path="SumOFTwoNumbers/src"/>
+	<classpathentry kind="output" path="Array/LargestNumber/out/production/LargestNumber"/>
+</classpath>
